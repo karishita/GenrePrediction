@@ -200,8 +200,7 @@ This provides an interpretable explanation of why a particular genre was predict
 ## Running the Application
 
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
+[LINK](https://huggingface.co/spaces/poirot07/GenrePrediction)
 ```
 
 ---
