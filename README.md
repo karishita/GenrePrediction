@@ -199,9 +199,7 @@ This provides an interpretable explanation of why a particular genre was predict
 
 ## Running the Application
 
-```bash
 [LINK](https://huggingface.co/spaces/poirot07/GenrePrediction)
-```
 
 ---
 
